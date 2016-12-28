@@ -2,8 +2,10 @@
 
 > So this is how .md file is used.... actually this is R markdown?
 
-This is a self-study attempt at Coursera UC San Diego Algorithm Class.\\
-I need some self-discipline to finish the courses...\\
+This is a self-study attempt at Coursera UC San Diego Algorithm Class.
+
+I need some self-discipline to finish the courses...
+
 The programming tasks are organized by weeks
 
 ## Disclaimer
